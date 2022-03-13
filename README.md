@@ -20,7 +20,7 @@ O(n^2)
 3. Time Complexity: Average case: Aradığımız sayının ortada olması,Worst case: Aradığımız sayının sonda olması, Best case: Aradığımız sayının dizinin en başında olması.
 ```
 Average case: O(n^2)
-Best case: O(n)
+Best case: O(1) -> best case olduğu takdirde tek atarız
 Worst case: O(n^2)
 ```
 4. Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
